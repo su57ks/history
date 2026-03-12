@@ -1,4 +1,4 @@
-### powered by su57ks
+# powered by su57ks
 # Сказать спасибо - отпишите в лс
 
 <details>
